@@ -109,5 +109,3 @@ Account for John Doe created successfully with balance 5000.0.
 **Ehtisham Aflaq** – Beginner Python Developer passionate about building real-world projects.
 
 ---
-If you want, I can also make you a **well-formatted GitHub README with emojis, section dividers, and code formatting** so it looks attractive and professional when you upload your project.
-Do you want me to prepare that stylish GitHub version for you?
